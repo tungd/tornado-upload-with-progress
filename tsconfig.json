@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2016",
+    "sourceMap": true,
+    "inlineSources": true,
+    "jsx": "react",
+    "baseUrl": ".",
+    "importHelpers": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowJs": true,
+    "strict": false,
+    "strictFunctionTypes": false,
+    "incremental": true
+  }
+}
